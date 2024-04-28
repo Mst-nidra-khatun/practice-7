@@ -1,0 +1,36 @@
+.box{
+    background: #0A6190;
+    width: 980px;
+    height: 700px;
+}
+.rectangular {
+    position: absolute;
+    background: white;
+    width: 200px;
+    height: 100px;
+
+}
+.rectangular1 {
+    top: 12.5%;
+    right: 25%
+}
+.rectangular2 {
+    bottom: 35%;
+    left: 25%;
+}
+.bar {
+    position: absolute;
+    background: #2BBBF3;
+    width: 200px;
+    height: 600px;
+ }
+ .bar1 {
+    top: -10%;
+    right: 25%;
+    border-radius: 100px;
+}
+.bar2 {
+    bottom: 10%;
+    left: 25%;
+    border-radius: 100px;
+}
